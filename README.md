@@ -8,8 +8,8 @@ Here, PyYolo is used for the purpose of detecting the person(s) as well as objec
 In this project, PyYolo was used for 2 main purposes:
 1) To classify the objects detected in the image and determine if the objects on the car seat was a human/inanimate object, and determine if the seatbelt warning sign should appear.
 
-![Rear Seat](/Rear seat.png)
+![Rear Seat](Rear seat.png)
 
 2) Through the use of bounding boxes parameters (as seen in the code), to determine if the passenger(if there is one) in the front passenger seat should be allowed to be seated there or not (if child <[recommended height], then he should not be alowed to sit at the front)
 
-![Front Seat](/Front seat.png)
+![Front Seat](Front seat.png)
