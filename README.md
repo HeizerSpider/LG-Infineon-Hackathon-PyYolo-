@@ -2,7 +2,7 @@
 
 This repo includes the overall project outline (as can be seen in the S.I.M slides as well as poster).
 
-It also incliudes a python file used for the project in the computer vision component. 
+It also includes a python file used for the project in the computer vision component. 
 Here, PyYolo is used for the purpose of detecting the person(s) as well as objects in the picture as taken by the in-car camera (more details in slide/poster).
 
 In this project, PyYolo was used for 2 main purposes:
